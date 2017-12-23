@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="12141" systemVersion="16G29" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="EightStations" representedClassName="EightStations" syncable="YES" codeGenerationType="class">
+        <attribute name="memo" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="place" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="saveDate" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="stationname" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="EtcStations" representedClassName="EtcStations" syncable="YES" codeGenerationType="class">
+        <attribute name="memo" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="place" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="saveDate" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="stationname" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="FiveStations" representedClassName="FiveStations" syncable="YES" codeGenerationType="class">
+        <attribute name="memo" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="place" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="saveDate" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="stationname" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="FourStations" representedClassName="FourStations" syncable="YES" codeGenerationType="class">
+        <attribute name="memo" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="place" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="saveDate" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="stationname" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="NineStations" representedClassName="NineStations" syncable="YES" codeGenerationType="class">
+        <attribute name="memo" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="place" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="saveDate" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="stationname" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="SevenStations" representedClassName="SevenStations" syncable="YES" codeGenerationType="class">
+        <attribute name="memo" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="place" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="saveDate" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="stationname" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="SixStations" representedClassName="SixStations" syncable="YES" codeGenerationType="class">
+        <attribute name="memo" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="place" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="saveDate" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="stationname" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Stations" representedClassName="Stations" syncable="YES" codeGenerationType="class">
+        <attribute name="memo" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="place" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="saveDate" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="stationname" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="ThreeStations" representedClassName="ThreeStations" syncable="YES" codeGenerationType="class">
+        <attribute name="memo" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="place" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="saveDate" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="stationname" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="TwoStations" representedClassName="TwoStations" syncable="YES" codeGenerationType="class">
+        <attribute name="memo" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="place" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="saveDate" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="stationname" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Stations" positionX="-54" positionY="9" width="128" height="105"/>
+        <element name="TwoStations" positionX="-45" positionY="45" width="128" height="105"/>
+        <element name="ThreeStations" positionX="-27" positionY="72" width="128" height="105"/>
+        <element name="FourStations" positionX="-9" positionY="99" width="128" height="105"/>
+        <element name="FiveStations" positionX="9" positionY="108" width="128" height="105"/>
+        <element name="SixStations" positionX="27" positionY="117" width="128" height="105"/>
+        <element name="SevenStations" positionX="45" positionY="126" width="128" height="105"/>
+        <element name="EightStations" positionX="0" positionY="72" width="128" height="105"/>
+        <element name="NineStations" positionX="9" positionY="81" width="128" height="105"/>
+        <element name="EtcStations" positionX="18" positionY="90" width="128" height="105"/>
+    </elements>
+</model>
